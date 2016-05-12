@@ -17,7 +17,6 @@ This readme applies to the PowerShell scripts: PoolTelemetryJobRunner.ps1 and Po
 [Disclaimers](#disclaimers)<br/>
 [Related links](#related-links)<br/>
 
-
 <a name=what-do-the-powershell-scripts-do?></a>
 
 ## What do the PowerShell scripts do?
